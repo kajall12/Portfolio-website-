@@ -1,2 +1,2 @@
 # Portfolio-website-
-Personal portfolio website showcasing my projects, skills, and experience. Built using HTML, CSS, and JavaScript with a responsive and modern design.
+This is a personal portfolio website showcasing my skills, projects, and experience as a BCA student and aspiring frontend developer.
